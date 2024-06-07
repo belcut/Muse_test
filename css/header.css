@@ -1,0 +1,10 @@
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.__header_logo {
+	max-width: 144px;
+	margin: var(--blocks-vertical-spacing) 0;
+}
