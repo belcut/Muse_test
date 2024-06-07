@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root {
 	--blocks-vertical-spacing: 32px;
@@ -27,7 +27,6 @@ body {
 	color: var(--text-primary-color);
 	font-family: var(--font-family);
 	font-optical-sizing: auto;
-	font-weight: 400;
 	font-style: normal;
 	font-variation-settings: 'slnt' 0;
 	min-width: 320px;

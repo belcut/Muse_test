@@ -34,6 +34,7 @@
 	display: -webkit-box;
 	-webkit-line-clamp: 3;
 	-webkit-box-orient: vertical;
+	color: var(--text-secondary-color);
 }
 .__card_img {
 	height: 159px;
