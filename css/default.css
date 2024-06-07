@@ -1,0 +1,6 @@
+:root {
+	--blocks-vertical-spacing: 32px;
+}
+html {
+	scroll-behavior: smooth;
+}
