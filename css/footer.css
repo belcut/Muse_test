@@ -26,4 +26,8 @@
 	.__footer_links {
 		font-size: 11px;
 	}
+
+	.__footer_social-media-links {
+		gap: 40px;
+	}
 }

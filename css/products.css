@@ -14,7 +14,6 @@
 }
 .__products_card {
 	box-sizing: border-box;
-
 	border-radius: 8px;
 	overflow: hidden;
 	border: 1px solid var(--divider-color);
